@@ -1,0 +1,66 @@
+Zeus:
+Tab length: 4 spaces. MUST be spaces.
+Imports must be organized.
+Spelling must be correct.
+EVERYTHING of public access (public method, public class, public constructor) must have javadoc.
+There must be 1 space between methods, and NO spaces at:
+
+The end of methods
+The end of classes
+Ect
+And in the future, NO SUPPRESSWARNINGS. Aside from "boxing". I have put some but no more should exist.
+Code should be simple enough to understand that there are no comments needed in it. There should be next to 0 comments, anywhere.
+No unneeded elses. Example:
+if(testfor) {
+stuff happens here
+return something;
+}
+else {
+return somethingElse;
+}
+
+The else is not needed.
+
+2 other things added there:
+1 space between if and curly bracket. And no boolean ==. Just put the BOOLEAN or !boolean. There should be no boolean == true or boolean == false. It should be just if(boolean) or if (!boolean).
+
+No capitals in packages.
+Names like doSomething, not DoSomething or dosomething. Classes would be SomethingElse, not somethingElse or somethingelse.
+Variables are grouped by access restrictions and type in most cases. Like:
+
+public static int blah;
+public static int blah2;
+
+public static String blah6;
+public static String blah7;
+
+public int blah3;
+public int blah4;
+
+public String blah8;
+
+private int blah5;
+
+That format isnt perfect and could use changes.
+
+Oh, and yet again, this really gets on my nerves:
+
+public class Class {
+
+public String blah;
+
+public void doSomething(){
+
+}
+                      <---- AAAUUUUUGGGGHHHH!!!!!!
+}
+
+No blank catches. Either actually HANDLE it, or do e.printStackTrace();
+Use ternary operators if it makes sense to. Dont have if chains if you dont need to.
+Do method chaining where it makes sense.
+All javadoc needs all params, returns, and throws.
+No author tags in javadoc.
+Keep code as simple as possible. We are a team. Do NOT write code that wouldnt be easy for others to edit. Also, do not sacrifice code style for optimizations unless they are REALLY needed! I see all the time where people will make code extremely complicated to save a half second of loading time, and then it being impossible to edit and tons of bugs appearing in it (but nobody can find what's wrong)
+
+I'll put more later once I think of it.
+
