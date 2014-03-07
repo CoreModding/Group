@@ -1,0 +1,1 @@
+Here you stick any update check/data stuff to prevent extra builds on future CIs.
