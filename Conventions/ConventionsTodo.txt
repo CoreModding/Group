@@ -1,0 +1,7 @@
+Todo:
+  Zeus:
+    - Upload formatting settings
+    - Upload javadoc settings
+    - Upload warnings settings
+  Everybody:
+    - Be prepared for Zeus to upload settings, then add them to workspace
