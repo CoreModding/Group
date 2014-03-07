@@ -1,0 +1,1 @@
+All users are part of Core-API! It's for adding things that will be used in many mods, or other projects. This is stuff like network utils, and registry stuff, ect.
