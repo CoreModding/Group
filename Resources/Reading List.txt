@@ -1,0 +1,8 @@
+A few resources to read when you have free time.
+
+Bloch, Joshua "Effective Java"
+http://bit.ly/1cQrWjD
+
+Martin, Robert C. "Clean Code: A Handbook of Agile Software Craftmanship"
+http://bit.ly/1ifsi5C
+http://bit.ly/1fpQzhx
