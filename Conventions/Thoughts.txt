@@ -1,5 +1,6 @@
 Zeus:
 Tab length: 4 spaces. MUST be spaces.
+Column length: 120 characters
 Imports must be organized.
 Spelling must be correct.
 EVERYTHING of public access (public method, public class, public constructor) must have javadoc.
