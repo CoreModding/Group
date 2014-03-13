@@ -1,0 +1,15 @@
+A few resources to read when you have free time.
+
+Bloch, Joshua "Effective Java" http://bit.ly/1cQrWjD
+"This book consists of seventy-eight items, each of which conveys one rule. 
+The rules capture practices generally held to be beneficial by the best and 
+most experienced programmers."
+
+Chacon, Scott "Pro Git" http://git-scm.com/book
+"All things git, from the basics to customizations and how the magic becomes
+the mechanical. The resource for those working with Git or want to know more
+about Git."
+
+Martin, Robert C. "Clean Code: A Handbook of Agile Software Craftmanship" http://bit.ly/1fpQzhx
+"Even bad code can function. But if code isn’t clean, it can bring a 
+development organization to its knees. But it doesn’t have to be that way."
