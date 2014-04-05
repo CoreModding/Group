@@ -1,0 +1,5 @@
+These are the JavaDoc and Errors/Warnings settings expected.
+
+I may have accidentally done 2 screenshots of 1 thing.
+
+It is expected everything is set to these.
